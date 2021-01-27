@@ -1,1 +1,1 @@
-echo hacked
+calc
